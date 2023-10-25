@@ -1,4 +1,6 @@
 # flappyBird-game
-flappy-bird game using python Pygame\n
-pipenv install\n
-pipenv run python3 flappy.py\n
+flappy-bird game using python Pygame
+
+pipenv install
+
+pipenv run python3 flappy.py
